@@ -168,7 +168,7 @@ mobile-sales-dashboard/
 
 **Abhik Roy**
 📧 abhik.roy.kol@gmail.com
-🔗 [LinkedIn](www.linkedin.com/in/abhik-roy-28538b389) | [GitHub](https://github.com/abhikroy-kol)
+🔗 [LinkedIn](www.linkedin.com/in/abhik-roy-kol) | [GitHub](https://github.com/abhikroy-kol)
 
 *Data Analyst passionate about transforming raw business data into clear, actionable visual stories using Power BI, SQL, and Python.*
 
