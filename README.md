@@ -164,7 +164,7 @@ mobile-sales-dashboard/
 
 ---
 
-## 🙋 About the Author
+## 🙋 Author & Contact
 
 **Abhik Roy**
 📧 abhik.roy.kol@gmail.com
