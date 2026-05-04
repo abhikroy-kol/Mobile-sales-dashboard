@@ -170,7 +170,7 @@ mobile-sales-dashboard/
 📧 abhik.roy.kol@gmail.com
 🔗 [LinkedIn](www.linkedin.com/in/abhik-roy-kol) | [GitHub](https://github.com/abhikroy-kol)
 
-*Data Analyst passionate about transforming raw business data into clear, actionable visual stories using Power BI, SQL, and Python.*
+*Data Analyst passionate about transforming raw business data into clear, actionable visual stories using Power BI, SQL and DAX.*
 
 ---
 
